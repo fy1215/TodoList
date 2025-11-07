@@ -14,7 +14,3 @@
 - HTML
 - CSS
 - JavaScript
-
-## デモ
-
-https://fy1215.github.io/TodoList/
